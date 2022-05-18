@@ -2,7 +2,7 @@
 
 This is a simple Task Management System for a software company
 
-Database DiagraFor example, since Melis Alpkaya works as a chief engineer in the company, only her menu will be displayed.
+Database Diagram
 
 ![diagram](https://user-images.githubusercontent.com/74821649/168993707-94a3852d-d198-4b9d-b15f-5439708f20df.png)
 
