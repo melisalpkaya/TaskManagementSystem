@@ -24,3 +24,10 @@ Since she is an chief engineer, she can view her employees, assign a task to the
 ![ModelViewControllerProject – TaskView java 18 05 2022 11_22_23](https://user-images.githubusercontent.com/74821649/168995256-282705b1-1edf-4873-a646-a96e2d786dcf.png)
 ![ModelViewControllerProject – TaskView java 18 05 2022 11_22_51](https://user-images.githubusercontent.com/74821649/168995374-9bd93f06-0fdd-4b3f-86b2-48f2f881c8b3.png)
 ![ModelViewControllerProject – TaskView java 18 05 2022 11_39_35](https://user-images.githubusercontent.com/74821649/168996467-0950b5d3-79e4-4f1e-8218-e5f48a0e764c.png)
+
+Other Menus:
+
+![ModelViewControllerProject – TaskView java 18 05 2022 11_36_34](https://user-images.githubusercontent.com/74821649/168996974-ebc55719-69f3-461f-9289-a85ccc854ddc.png)
+
+![ModelViewControllerProject – TaskView java 18 05 2022 11_36_08](https://user-images.githubusercontent.com/74821649/168997001-07a927de-f145-4d7d-a91f-bb7c2791e1f0.png)
+
